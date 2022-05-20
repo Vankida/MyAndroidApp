@@ -1,12 +1,12 @@
 # MyAndroidApp
 
-Three things you can do
-  1- Splines
-  2- Rotate a cube
-  3- Edit Images
-    -Rotate
-    -Flip
-    -Three Filters
-    -Sharpen
-    -Scaling
-      Scaling uses bilinear and trilinear filtering
+Three things you can do<br />
+  1- Splines<br />
+  2- Rotate a cube<br />
+  3- Edit Images<br /><br />
+    -Rotate<br />
+    -Flip<br />
+    -Three Filters<br />
+    -Sharpen<br />
+    -Scaling<br />
+      -Scaling uses bilinear and trilinear filtering
